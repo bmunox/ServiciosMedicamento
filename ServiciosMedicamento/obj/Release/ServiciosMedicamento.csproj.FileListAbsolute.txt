@@ -1,0 +1,12 @@
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\ServiciosMedicamento.dll.config
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\ServiciosMedicamento.dll
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\ServiciosMedicamento.pdb
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\EntityFramework.dll
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\EntityFramework.SqlServer.dll
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\EntityFramework.xml
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\bin\EntityFramework.SqlServer.xml
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\obj\Release\ServiciosMedicamento.csprojAssemblyReference.cache
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\obj\Release\ServiciosMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\obj\Release\ServiciosMedicamento.csproj.CopyComplete
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\obj\Release\ServiciosMedicamento.dll
+C:\Users\brimu\source\repos\ServiciosMedicamento\ServiciosMedicamento\obj\Release\ServiciosMedicamento.pdb
